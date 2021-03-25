@@ -14,4 +14,5 @@ first.div(2);
 first.mult(4);
 first.getResult();
 const result = first.getResult();
+
 console.log(result);
